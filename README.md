@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on honing my frontend web dev skills
+- 🌱 I’m currently learning MongoDB to equip myself with backend development skills
+- 📫 How to reach me: https://www.linkedin.com/in/li-wen-ong/
+- 😄 Pronouns: she/her
+
 <!--
 **24kmystique/24kmystique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
