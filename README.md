@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on honing my frontend web dev skills
+- 🔭 I’m currently working on honing my frontend and backend web dev skills
 - 🌱 I’m currently learning MongoDB to equip myself with backend development skills
 - 📫 How to reach me: https://www.linkedin.com/in/li-wen-ong/
 - 😄 Pronouns: she/her
