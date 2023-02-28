@@ -6,7 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/li-wen-ong/
 - 😄 Pronouns: she/her
 
-[![Li Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=24kmystique)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Li Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=24kmystique&count_private=true?show_icons=true&theme=tokyonight)
 
